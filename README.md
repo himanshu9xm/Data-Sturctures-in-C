@@ -1,2 +1,2 @@
-# Data-Sturctures-in-C
-Implementing various data structures in C programming language.
+# Data-Sturctures-in-Java
+Implementing various data structures in Java programming language.
